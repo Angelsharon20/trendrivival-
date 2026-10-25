@@ -1,0 +1,11 @@
+{
+  "min_total_mentions": 100,
+  "min_peak_count": 30,
+  "min_decline_pct": 70.0,
+  "min_quiet_periods": 8,
+  "min_growth_pct": 200.0,
+  "min_current_count": 20,
+  "resurgence_window": 4,
+  "min_posts_in_resurgence": 0,
+  "baseline_floor": 1.0
+}

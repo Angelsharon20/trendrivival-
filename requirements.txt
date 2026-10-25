@@ -1,0 +1,8 @@
+# PyMongo is pinned: PyMongo 4.10.1 was verified against MongoDB 4.2.15 (see README).
+# Newer PyMongo releases refuse to connect to MongoDB 4.2 (they require 4.4+).
+pymongo==4.10.1
+pandas>=2.0
+streamlit>=1.35
+plotly>=5.20
+python-dotenv>=1.0
+pytest>=8.0
